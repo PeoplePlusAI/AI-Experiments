@@ -12,6 +12,10 @@ Welcome to AI-Experiments, an open-source initiative by PeoplePlusAI that serves
 ## Getting Started
 
 To begin experimenting with our AI models and guides, clone the repository:
+\```bash
+git clone https://github.com/PeoplePlusAI/AI-Experiments.git
+cd AI-Experiments
+\```
 
 ## How to Use
 
@@ -29,7 +33,7 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines to learn how you c
 
 ## Stay Connected
 
-Join our discussions or ask questions by creating an issue. For direct communication, email us at [contact@peopleplus.ai](mailto:contact@peopleplus.ai).
+Join our discussions or ask questions by creating an issue.
 
 ## License
 
