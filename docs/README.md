@@ -12,11 +12,10 @@ Welcome to AI-Experiments, an open-source initiative by PeoplePlusAI that serves
 ## Getting Started
 
 To begin experimenting with our AI models and guides, clone the repository:
-\```bash
+```bash
 git clone https://github.com/PeoplePlusAI/AI-Experiments.git
 cd AI-Experiments
-\```
-
+```
 ## How to Use
 
 Navigate through our directories to find the resources you need. If you're new to AI, start with our beginner-friendly notebooks and gradually progress to more complex models and case studies.
